@@ -1,6 +1,5 @@
 #  WordPress link: https://soarovchakraborty.intelaedu.com
 
-
 # One Can give following line as input
 
 hi
